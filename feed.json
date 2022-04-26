@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "boonlertfarm.com",
     "description": "",
-    "home_page_url": "https://saledaidee.github.io/gh-pages",
-    "feed_url": "https://saledaidee.github.io/gh-pages/feed.json",
+    "home_page_url": "https://boonlertfarm.com",
+    "feed_url": "https://boonlertfarm.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Admin"
     },
     "items": [
         {
-            "id": "https://saledaidee.github.io/gh-pages/buyelisfaarm.html",
-            "url": "https://saledaidee.github.io/gh-pages/buyelisfaarm.html",
+            "id": "https://boonlertfarm.com/buyelisfaarm.html",
+            "url": "https://boonlertfarm.com/buyelisfaarm.html",
             "title": "บุญเลิศฟาร์ม",
             "summary": "บุญเลิศฟาร์ม ฟาร์มปลานิลในสุรินทร์",
             "content_html": "\n    <h2 id=\"-\">\n      บุญเลิศฟาร์ม ฟาร์มปลานิลในสุรินทร์\n    </h2>",

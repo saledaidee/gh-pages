@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://saledaidee.github.io/gh-pages/sitemap.xml
+Sitemap: https://boonlertfarm.com/sitemap.xml
